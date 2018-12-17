@@ -1,0 +1,19 @@
+current directory: /home/raphael/casa_do_som/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+/home/raphael/.rvm/rubies/ruby-2.5.1/bin/ruby -r ./siteconf20181217-11172-4gd6f6.rb extconf.rb
+creating Makefile
+
+current directory: /home/raphael/casa_do_som/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/raphael/casa_do_som/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/raphael/casa_do_som/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 byebug.so ./.gem.20181217-11172-1pvkjhh/byebug
